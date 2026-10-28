@@ -4,8 +4,8 @@
 
 **Analista de Suporte de TI & Sistemas** • Sustentação | SQL | ERP | Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermedossantosbueno)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guidossantosbueno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedossantosbueno/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidossantosbueno@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991669935)
 
 </div>
@@ -32,22 +32,22 @@
 
 ### 📈 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Santos1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=euguisantosdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td valign="top" width="50%">
 
 ### 💬 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos1324&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euguisantosdev&layout=compact&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
 </table>
 
-![Streak](https://streak-stats.demolab.com?user=Guilherme-Santos1324&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=euguisantosdev&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Santos1324&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euguisantosdev&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![Service Desk Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-Santos1324&repo=service-desk-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Guilherme-Santos1324/service-desk-dashboard)
+[![Service Desk Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=euguisantosdev&repo=service-desk-dashboard&theme=tokyonight&hide_border=true)](https://github.com/euguisantosdev/service-desk-dashboard)
 
 </div>
 
@@ -86,6 +86,6 @@ Dashboard de service desk construído em **SQL + Python + Streamlit**, simulando
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Guilherme-Santos1324&style=for-the-badge&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=euguisantosdev&style=for-the-badge&color=blueviolet)
 
 </div>
