@@ -47,8 +47,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=euguisantosdev&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euguisantosdev&theme=tokyo-night&hide_border=true)
-
 </div>
 
 ---
