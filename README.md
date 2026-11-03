@@ -14,13 +14,12 @@
 
 ### 🖥️ Sobre mim
 
-- 🔧 Atuo com **Suporte N1/N2/N3**, troubleshooting e análise de causa raiz
-- 🗃️ Trabalho com **SQL**, bancos de dados e sistemas **ERP**
-- 📊 Construo dashboards e relatórios em **Power BI**
-- 🐘 Também escrevo em **PHP** e lógica de programação
-- 🖧 Confortável em ambientes **Windows**, **Linux** e **redes**
-- ☁️ Cursos em **Inteligência Artificial (Alura)**, **AWS Cloud**, **Google Cloud** e **Cloud Computing (SENAI)**
-- 📍 Sorocaba - SP, Brasil
+- ⚡ **Suporte N1/N2/N3** em ambientes de alto volume — já atuei em operação bancária (Santander) e em rede de restaurantes de grande porte (McDonald's), diagnosticando falhas sob pressão real
+- 🔎 Não só resolvo chamado: **investigo causa raiz** com consultas **SQL**, análise de logs e diagnóstico de integrações via **API REST**
+- 🛠️ Transformo rotina de suporte em **automação e dado** — construo dashboards (Power BI, Python/Streamlit) e scripts que tiram processo manual do caminho
+- 🗃️ Sólido em **ERP, bancos de dados, Windows/Linux, redes e Active Directory** — e também escrevo em **PHP** e Python
+- 📈 Projeto autoral no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
+- 📍 Sorocaba - SP, Brasil · aberto a presencial, híbrido ou remoto
 
 ---
 
@@ -47,9 +46,10 @@
 
 <div align="center">
 
-[![Service Desk Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=euguisantosdev&repo=service-desk-dashboard&theme=tokyonight&hide_border=true)](https://github.com/euguisantosdev/service-desk-dashboard)
+#### [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard)
 
 [![Ver ao vivo](https://img.shields.io/badge/▶_Ver_ao_vivo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://service-desk-dashboard-8qhpzeyamo75tk9qklbfjw.streamlit.app/)
+[![Código no GitHub](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euguisantosdev/service-desk-dashboard)
 [![Testes](https://github.com/euguisantosdev/service-desk-dashboard/actions/workflows/tests.yml/badge.svg)](https://github.com/euguisantosdev/service-desk-dashboard/actions/workflows/tests.yml)
 
 </div>
@@ -57,9 +57,3 @@
 Simulação de um ambiente real de service desk, modelada a partir da minha própria experiência em suporte N1/N2/N3: banco de dados em **SQL**, análise de chamados, automação de alerta de SLA e dashboard interativo em **Python + Streamlit**. Com testes automatizados (pytest), pipeline de **CI/CD** (GitHub Actions), tratamento de erro e diagrama de modelagem de dados.
 
 ---
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=euguisantosdev&style=for-the-badge&color=blueviolet)
-
-</div>
