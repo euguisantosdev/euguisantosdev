@@ -24,33 +24,6 @@
 
 ---
 
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 📈 Estatísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=euguisantosdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</td>
-<td valign="top" width="50%">
-
-### 💬 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euguisantosdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-![Streak](https://streak-stats.demolab.com?user=euguisantosdev&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
