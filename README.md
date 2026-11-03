@@ -18,7 +18,7 @@
 - 🔎 Não só resolvo chamado: **investigo causa raiz** com consultas **SQL**, análise de logs e diagnóstico de integrações via **API REST**
 - 🛠️ Transformo rotina de suporte em **automação e dado** — construo dashboards (Power BI, Python/Streamlit) e scripts que tiram processo manual do caminho
 - 🗃️ Sólido em **ERP, bancos de dados, Windows/Linux, redes e Active Directory** — e também escrevo em **PHP** e Python
-- 📈 Projeto autoral no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
+- 📈 Projetos autorais no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard) e [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
 - 📍 Sorocaba - SP, Brasil · aberto a presencial, híbrido ou remoto
 
 ---
