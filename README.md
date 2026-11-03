@@ -76,9 +76,12 @@
 
 [![Service Desk Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=euguisantosdev&repo=service-desk-dashboard&theme=tokyonight&hide_border=true)](https://github.com/euguisantosdev/service-desk-dashboard)
 
+[![Ver ao vivo](https://img.shields.io/badge/▶_Ver_ao_vivo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://service-desk-dashboard-8qhpzeyamo75tk9qklbfjw.streamlit.app/)
+[![Testes](https://github.com/euguisantosdev/service-desk-dashboard/actions/workflows/tests.yml/badge.svg)](https://github.com/euguisantosdev/service-desk-dashboard/actions/workflows/tests.yml)
+
 </div>
 
-Dashboard de service desk construído em **SQL + Python + Streamlit**, simulando análise de chamados e indicadores de atendimento.
+Simulação de um ambiente real de service desk, modelada a partir da minha própria experiência em suporte N1/N2/N3: banco de dados em **SQL**, análise de chamados, automação de alerta de SLA e dashboard interativo em **Python + Streamlit**. Com testes automatizados (pytest), pipeline de **CI/CD** (GitHub Actions), tratamento de erro e diagrama de modelagem de dados.
 
 ---
 
