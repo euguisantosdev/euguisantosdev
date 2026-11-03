@@ -42,7 +42,7 @@
 
 ---
 
-### 📌 Projeto em destaque
+### 📌 Projetos em destaque
 
 <div align="center">
 
@@ -55,5 +55,19 @@
 </div>
 
 Simulação de um ambiente real de service desk, modelada a partir da minha própria experiência em suporte N1/N2/N3: banco de dados em **SQL**, análise de chamados, automação de alerta de SLA e dashboard interativo em **Python + Streamlit**. Com testes automatizados (pytest), pipeline de **CI/CD** (GitHub Actions), tratamento de erro e diagrama de modelagem de dados.
+
+<br>
+
+<div align="center">
+
+#### [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal)
+
+[![Ver ao vivo](https://img.shields.io/badge/▶_Ver_ao_vivo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sre-autoheal-kshs3a6xoqumaxswedgjat.streamlit.app/)
+[![Código no GitHub](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euguisantosdev/sre-autoheal)
+[![Testes](https://github.com/euguisantosdev/sre-autoheal/actions/workflows/tests.yml/badge.svg)](https://github.com/euguisantosdev/sre-autoheal/actions/workflows/tests.yml)
+
+</div>
+
+Simulação de uma frota de servidores com auto-remediação de incidentes — um motor de automação tenta resolver sozinho (com runbooks e taxa de sucesso realista) antes de escalar pra um analista. Ataca o problema de **toil** operacional (trabalho repetitivo que consome tempo de suporte) com **SQL**, **Python** e testes automatizados cobrindo a lógica de decisão.
 
 ---
