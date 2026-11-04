@@ -19,7 +19,7 @@
 - 🔎 Não só resolvo chamado: **investigo causa raiz** com consultas **SQL**, análise de logs e diagnóstico de integrações via **API REST**
 - 🛠️ Transformo rotina de suporte em **automação e dado** — construo dashboards (Power BI, Python/Streamlit) e scripts que tiram processo manual do caminho
 - 🗃️ Sólido em **ERP, bancos de dados, Windows/Linux, redes e Active Directory** — e também escrevo em **PHP** e Python
-- 📈 Projetos pessoais no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard), [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) e [AD Toolkit](https://github.com/euguisantosdev/ad-toolkit) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
+- 📈 Projetos pessoais no ar: [OpsDesk](https://github.com/euguisantosdev/opsdesk), [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard), [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) e [AD Toolkit](https://github.com/euguisantosdev/ad-toolkit) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
 - 🌐 Portfólio: [euguisantosdev.github.io](https://euguisantosdev.github.io/)
 - 📍 Sorocaba - SP, Brasil · aberto a presencial, híbrido ou remoto
 
@@ -45,6 +45,20 @@
 ---
 
 ### 📌 Projetos em destaque
+
+<div align="center">
+
+#### [OpsDesk](https://github.com/euguisantosdev/opsdesk)
+
+[![Ver ao vivo](https://img.shields.io/badge/▶_Ver_ao_vivo-6D8CFF?style=for-the-badge&logoColor=white)](https://euguisantosdev.github.io/opsdesk/)
+[![Código no GitHub](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euguisantosdev/opsdesk)
+[![Testes](https://github.com/euguisantosdev/opsdesk/actions/workflows/tests.yml/badge.svg)](https://github.com/euguisantosdev/opsdesk/actions/workflows/tests.yml)
+
+</div>
+
+Service desk de demonstração com **SLA em tempo real** (o relógio pausa enquanto aguarda o usuário), **ciclo do chamado**, **escalonamento N1 → N2** com evidências e quadro de chamados com arrastar e soltar. Back-end em **Python + SQL (SQLite)** com API JSON, 32 testes automatizados e CI. Projeto pessoal, com dados fictícios.
+
+<br>
 
 <div align="center">
 
