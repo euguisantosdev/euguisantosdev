@@ -18,7 +18,7 @@
 - 🔎 Não só resolvo chamado: **investigo causa raiz** com consultas **SQL**, análise de logs e diagnóstico de integrações via **API REST**
 - 🛠️ Transformo rotina de suporte em **automação e dado** — construo dashboards (Power BI, Python/Streamlit) e scripts que tiram processo manual do caminho
 - 🗃️ Sólido em **ERP, bancos de dados, Windows/Linux, redes e Active Directory** — e também escrevo em **PHP** e Python
-- 📈 Projetos autorais no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard) e [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
+- 📈 Projetos autorais no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard), [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) e [AD Toolkit](https://github.com/euguisantosdev/ad-toolkit) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
 - 📍 Sorocaba - SP, Brasil · aberto a presencial, híbrido ou remoto
 
 ---
@@ -69,5 +69,18 @@ Simulação de um ambiente real de service desk, modelada a partir da minha pró
 </div>
 
 Simulação de uma frota de servidores com auto-remediação de incidentes — um motor de automação tenta resolver sozinho (com runbooks e taxa de sucesso realista) antes de escalar pra um analista. Ataca o problema de **toil** operacional (trabalho repetitivo que consome tempo de suporte) com **SQL**, **Python** e testes automatizados cobrindo a lógica de decisão.
+
+<br>
+
+<div align="center">
+
+#### [AD Toolkit](https://github.com/euguisantosdev/ad-toolkit)
+
+[![Código no GitHub](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euguisantosdev/ad-toolkit)
+[![Testes](https://github.com/euguisantosdev/ad-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/euguisantosdev/ad-toolkit/actions/workflows/tests.yml)
+
+</div>
+
+Automação de onboarding, offboarding e auditoria de contas no **Active Directory** via **PowerShell** — cria usuário na OU/grupo certo, desabilita e remove acesso de quem sai, e gera relatórios de contas inativas e senhas vencendo. Com testes automatizados (**Pester**) e pipeline de **CI** (GitHub Actions).
 
 ---
