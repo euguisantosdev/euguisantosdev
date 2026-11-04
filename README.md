@@ -4,6 +4,7 @@
 
 **Analista de Suporte de TI & Sistemas** • Sustentação | SQL | ERP | Power BI
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-05070D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://euguisantosdev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedossantosbueno/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidossantosbueno@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991669935)
@@ -14,11 +15,12 @@
 
 ### 🖥️ Sobre mim
 
-- ⚡ **Suporte N1/N2/N3** em ambientes de alto volume — já atuei em operação bancária (Santander) e em rede de restaurantes de grande porte (McDonald's), diagnosticando falhas sob pressão real
+- ⚡ **Suporte N1/N2 e sustentação de sistemas** em ambientes de alto volume — já atuei em operação bancária (Santander) e em rede de restaurantes de grande porte (McDonald's), diagnosticando falhas sob pressão real
 - 🔎 Não só resolvo chamado: **investigo causa raiz** com consultas **SQL**, análise de logs e diagnóstico de integrações via **API REST**
 - 🛠️ Transformo rotina de suporte em **automação e dado** — construo dashboards (Power BI, Python/Streamlit) e scripts que tiram processo manual do caminho
 - 🗃️ Sólido em **ERP, bancos de dados, Windows/Linux, redes e Active Directory** — e também escrevo em **PHP** e Python
-- 📈 Projetos autorais no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard), [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) e [AD Toolkit](https://github.com/euguisantosdev/ad-toolkit) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
+- 📈 Projetos pessoais no ar: [Service Desk Dashboard](https://github.com/euguisantosdev/service-desk-dashboard), [SRE Auto-Heal](https://github.com/euguisantosdev/sre-autoheal) e [AD Toolkit](https://github.com/euguisantosdev/ad-toolkit) — com testes automatizados e CI/CD, do jeito que sustentação de sistema deveria ser
+- 🌐 Portfólio: [euguisantosdev.github.io](https://euguisantosdev.github.io/)
 - 📍 Sorocaba - SP, Brasil · aberto a presencial, híbrido ou remoto
 
 ---
@@ -54,7 +56,7 @@
 
 </div>
 
-Simulação de um ambiente real de service desk, modelada a partir da minha própria experiência em suporte N1/N2/N3: banco de dados em **SQL**, análise de chamados, automação de alerta de SLA e dashboard interativo em **Python + Streamlit**. Com testes automatizados (pytest), pipeline de **CI/CD** (GitHub Actions), tratamento de erro e diagrama de modelagem de dados.
+Simulação de um ambiente real de service desk, modelada a partir da minha própria experiência em suporte N1/N2: banco de dados em **SQL**, análise de chamados, automação de alerta de SLA e dashboard interativo em **Python + Streamlit**. Com testes automatizados (pytest), pipeline de **CI/CD** (GitHub Actions), tratamento de erro e diagrama de modelagem de dados.
 
 <br>
 
